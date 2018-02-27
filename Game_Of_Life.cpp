@@ -50,7 +50,7 @@ int validInputInt() {
 }
 
 /*
- *  Funktion: validInpuWahrscheinlichkeit
+ *  Funktion: validInputWahrscheinlichkeit
  * 
  *  Prueft eine Eingabe vom Nutzer darauf, ob sie tatsächlich
  *  vom Typ int, sowie zwischen 0 und 100 liegt und verlangt sonst eine weitere Eingabe.
